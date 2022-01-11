@@ -1,0 +1,20 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#main {
+  text-align: center;
+}
+.answer {
+  text-align: center;
+}
+#final {
+  margin-top: 50px;
+}
+#word {
+  padding: inherit 40px inherit 40px;
+  font-weight: 600;
+}
+#input-cont {
+  width: 500px;
+}
